@@ -4,7 +4,7 @@
 
 ---
 
-## ✨ Features
+## Features
 
 ✅ **Fully Responsive Design**  
 
@@ -57,7 +57,7 @@ Your app will be available at **http://localhost:8080/**.
 ## 📸 Preview
 
 ![Website-Preview](thumbnail.png)
-✨ Watch it Live: [VINCENT](https://hireon-ai-powered-resume-analyzer.vercel.app/)
+✨ Watch it Live: [VINCENT](https://e-com-dashboard-gules.vercel.app/)
 ---
 
 
